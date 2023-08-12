@@ -878,6 +878,7 @@ width:55%;
 }
 
 
+
 /* SERVICE */
 
 .businessss{
@@ -1081,17 +1082,79 @@ width:100%;
 
 
 
+/* TEAM */
+
+.the-team{
+  width:100%;
+}
+
+.the-teamm{
+  width:100%;
+}
+
+.profile-container{
+  display:grid;
+  grid-template-columns:20% 20% 20% 20%;
+  justify-content:center;
+  align-items:center;
+  position:relative;
+  bottom:7rem;
+}
+
+.profilee-img{
+  width:100%;
+}
 
 
 
+/* BLOG */
+
+.news-articles{
+  width:100%
+}
+
+.news-articless{
+  width:100%
+}
+
+.drift-content{
+  display:grid;
+  grid-template-columns:20% 20% 20% 20%;
+  justify-content:center;
+  align-items:center;
+  position:relative;
+  bottom:1rem;
+}
+
+.millennials{
+  width:100%;
+}
 
 
 
+/* CASE */
 
+.clientss{
+  width:100%;
+}
 
+.saas-clients{
+  width:100%;
+}
 
+.agency{
+  margin-top:3rem;
+  margin-bottom:10rem;
+}
 
+.agency-content{
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+}
 
-
-
+.rebranding{
+  width:60%;
+}
 
